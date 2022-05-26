@@ -1,0 +1,11 @@
+{
+  "name": "generatepdf-rocketseat",
+  "version": "1.0.0",
+  "description": "Project made with the help of the rocketseat video to learn how to generate PDF's using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cassiano Junior",
+  "license": "ISC"
+}
